@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React Course by Akshay",
+  "keywords": [],
+  "homepage": "https://github.com/Kumarsairam/react#readme",
+  "bugs": {
+    "url": "https://github.com/Kumarsairam/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kumarsairam/react.git"
+  },
+  "license": "ISC",
+  "author": "Kumar",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
